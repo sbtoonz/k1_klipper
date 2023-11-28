@@ -163,6 +163,9 @@ config HAVE_GPIO
     bool
 config HAVE_GPIO_ADC
     bool
+config HAVE_PRTOUCH
+    bool
+    default y
 config HAVE_GPIO_SPI
     bool
 config HAVE_GPIO_SDIO
