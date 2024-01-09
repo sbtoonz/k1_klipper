@@ -1,3 +1,4 @@
+#include "autoconf.h"
 #include "basecmd.h"        // oid_alloc
 #include "board/gpio.h"     // struct gpio_in
 #include "board/irq.h"      // irq_disable
